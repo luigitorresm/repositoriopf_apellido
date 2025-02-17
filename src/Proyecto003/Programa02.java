@@ -23,6 +23,9 @@ public class Programa02 {
         System.out.println("Sueldo bruto: s/" + sb);
         System.out.println("Descuento: " + d);
         System.out.println("Sueldo neto: " + sn);
+        
+        
+        //Actualizacion automatica
     }
 }
 
